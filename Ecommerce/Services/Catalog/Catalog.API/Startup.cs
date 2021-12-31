@@ -1,3 +1,8 @@
+using Catalog.Abstraction;
+using Catalog.Abstraction.Repository;
+using Catalog.Abstraction.Services;
+using Catalog.Core.Service;
+using Catalog.Infrastructure.Data.Mongo;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
@@ -25,7 +30,9 @@ namespace Catalog.API
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-
+            services.Configure<AppSettings>(Configuration.GetSection("AppSettings"));
+            services.AddTransient<IProductRepository, ProductRepository>();
+            services.AddTransient<IProductApplication, ProductApplication>();
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {

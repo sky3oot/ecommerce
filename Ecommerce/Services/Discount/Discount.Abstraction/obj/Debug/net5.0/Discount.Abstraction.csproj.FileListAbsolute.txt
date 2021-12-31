@@ -1,0 +1,12 @@
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Discount\Discount.Abstraction\bin\Debug\net5.0\Discount.Abstraction.deps.json
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Discount\Discount.Abstraction\bin\Debug\net5.0\Discount.Abstraction.dll
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Discount\Discount.Abstraction\bin\Debug\net5.0\ref\Discount.Abstraction.dll
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Discount\Discount.Abstraction\bin\Debug\net5.0\Discount.Abstraction.pdb
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Discount\Discount.Abstraction\obj\Debug\net5.0\Discount.Abstraction.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Discount\Discount.Abstraction\obj\Debug\net5.0\Discount.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Discount\Discount.Abstraction\obj\Debug\net5.0\Discount.Abstraction.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Discount\Discount.Abstraction\obj\Debug\net5.0\Discount.Abstraction.AssemblyInfo.cs
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Discount\Discount.Abstraction\obj\Debug\net5.0\Discount.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Discount\Discount.Abstraction\obj\Debug\net5.0\Discount.Abstraction.dll
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Discount\Discount.Abstraction\obj\Debug\net5.0\ref\Discount.Abstraction.dll
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Discount\Discount.Abstraction\obj\Debug\net5.0\Discount.Abstraction.pdb

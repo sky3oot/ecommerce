@@ -1,0 +1,12 @@
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Catalog\Catalog.Abstraction\bin\Debug\net5.0\Catalog.Abstraction.deps.json
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Catalog\Catalog.Abstraction\bin\Debug\net5.0\Catalog.Abstraction.dll
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Catalog\Catalog.Abstraction\bin\Debug\net5.0\ref\Catalog.Abstraction.dll
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Catalog\Catalog.Abstraction\bin\Debug\net5.0\Catalog.Abstraction.pdb
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Catalog\Catalog.Abstraction\obj\Debug\net5.0\Catalog.Abstraction.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Catalog\Catalog.Abstraction\obj\Debug\net5.0\Catalog.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Catalog\Catalog.Abstraction\obj\Debug\net5.0\Catalog.Abstraction.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Catalog\Catalog.Abstraction\obj\Debug\net5.0\Catalog.Abstraction.AssemblyInfo.cs
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Catalog\Catalog.Abstraction\obj\Debug\net5.0\Catalog.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Catalog\Catalog.Abstraction\obj\Debug\net5.0\Catalog.Abstraction.dll
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Catalog\Catalog.Abstraction\obj\Debug\net5.0\ref\Catalog.Abstraction.dll
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Catalog\Catalog.Abstraction\obj\Debug\net5.0\Catalog.Abstraction.pdb

@@ -1,0 +1,17 @@
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Discount\Discount.Core\bin\Debug\net5.0\Discount.Core.deps.json
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Discount\Discount.Core\bin\Debug\net5.0\Discount.Core.dll
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Discount\Discount.Core\bin\Debug\net5.0\ref\Discount.Core.dll
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Discount\Discount.Core\bin\Debug\net5.0\Discount.Core.pdb
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Discount\Discount.Core\bin\Debug\net5.0\Discount.Abstraction.dll
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Discount\Discount.Core\bin\Debug\net5.0\Discount.Infrastracture.dll
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Discount\Discount.Core\bin\Debug\net5.0\Discount.Abstraction.pdb
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Discount\Discount.Core\bin\Debug\net5.0\Discount.Infrastracture.pdb
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Discount\Discount.Core\obj\Debug\net5.0\Discount.Core.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Discount\Discount.Core\obj\Debug\net5.0\Discount.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Discount\Discount.Core\obj\Debug\net5.0\Discount.Core.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Discount\Discount.Core\obj\Debug\net5.0\Discount.Core.AssemblyInfo.cs
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Discount\Discount.Core\obj\Debug\net5.0\Discount.Core.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Discount\Discount.Core\obj\Debug\net5.0\Discount.Core.csproj.CopyComplete
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Discount\Discount.Core\obj\Debug\net5.0\Discount.Core.dll
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Discount\Discount.Core\obj\Debug\net5.0\ref\Discount.Core.dll
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Discount\Discount.Core\obj\Debug\net5.0\Discount.Core.pdb

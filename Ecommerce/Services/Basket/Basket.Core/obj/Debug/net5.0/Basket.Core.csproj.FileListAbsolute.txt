@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Basket\Basket.Core\bin\Debug\net5.0\Basket.Core.deps.json
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Basket\Basket.Core\bin\Debug\net5.0\Basket.Core.dll
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Basket\Basket.Core\bin\Debug\net5.0\ref\Basket.Core.dll
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Basket\Basket.Core\bin\Debug\net5.0\Basket.Core.pdb
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Basket\Basket.Core\bin\Debug\net5.0\Basket.Abstraction.dll
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Basket\Basket.Core\bin\Debug\net5.0\Basket.Abstraction.pdb
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Basket\Basket.Core\obj\Debug\net5.0\Basket.Core.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Basket\Basket.Core\obj\Debug\net5.0\Basket.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Basket\Basket.Core\obj\Debug\net5.0\Basket.Core.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Basket\Basket.Core\obj\Debug\net5.0\Basket.Core.AssemblyInfo.cs
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Basket\Basket.Core\obj\Debug\net5.0\Basket.Core.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Basket\Basket.Core\obj\Debug\net5.0\Basket.Core.csproj.CopyComplete
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Basket\Basket.Core\obj\Debug\net5.0\Basket.Core.dll
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Basket\Basket.Core\obj\Debug\net5.0\ref\Basket.Core.dll
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Basket\Basket.Core\obj\Debug\net5.0\Basket.Core.pdb

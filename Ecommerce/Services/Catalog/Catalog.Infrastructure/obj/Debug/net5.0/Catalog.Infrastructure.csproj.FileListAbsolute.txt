@@ -1,0 +1,17 @@
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Catalog\Catalog.Infrastructure\bin\Debug\net5.0\Catalog.Infrastructure.deps.json
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Catalog\Catalog.Infrastructure\bin\Debug\net5.0\Catalog.Infrastructure.dll
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Catalog\Catalog.Infrastructure\bin\Debug\net5.0\ref\Catalog.Infrastructure.dll
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Catalog\Catalog.Infrastructure\bin\Debug\net5.0\Catalog.Infrastructure.pdb
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Catalog\Catalog.Infrastructure\bin\Debug\net5.0\Catalog.Abstraction.dll
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Catalog\Catalog.Infrastructure\bin\Debug\net5.0\Catalog.Core.dll
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Catalog\Catalog.Infrastructure\bin\Debug\net5.0\Catalog.Abstraction.pdb
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Catalog\Catalog.Infrastructure\bin\Debug\net5.0\Catalog.Core.pdb
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Catalog\Catalog.Infrastructure\obj\Debug\net5.0\Catalog.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Catalog\Catalog.Infrastructure\obj\Debug\net5.0\Catalog.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Catalog\Catalog.Infrastructure\obj\Debug\net5.0\Catalog.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Catalog\Catalog.Infrastructure\obj\Debug\net5.0\Catalog.Infrastructure.AssemblyInfo.cs
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Catalog\Catalog.Infrastructure\obj\Debug\net5.0\Catalog.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Catalog\Catalog.Infrastructure\obj\Debug\net5.0\Catalog.Infrastructure.csproj.CopyComplete
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Catalog\Catalog.Infrastructure\obj\Debug\net5.0\Catalog.Infrastructure.dll
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Catalog\Catalog.Infrastructure\obj\Debug\net5.0\ref\Catalog.Infrastructure.dll
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Catalog\Catalog.Infrastructure\obj\Debug\net5.0\Catalog.Infrastructure.pdb

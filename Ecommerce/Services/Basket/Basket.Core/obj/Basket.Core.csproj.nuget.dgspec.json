@@ -4,14 +4,14 @@
     "C:\\Users\\Dell\\source\\repos\\ecommerce\\Ecommerce\\Services\\Basket\\Basket.Core\\Basket.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell\\source\\repos\\ecommerce\\Ecommerce\\Services\\Basket\\Basket.Core\\Basket.Core.csproj": {
+    "C:\\Users\\Dell\\source\\repos\\ecommerce\\Ecommerce\\Services\\Basket\\Basket.Abstraction\\Basket.Abstraction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\ecommerce\\Ecommerce\\Services\\Basket\\Basket.Core\\Basket.Core.csproj",
-        "projectName": "Basket.Core",
-        "projectPath": "C:\\Users\\Dell\\source\\repos\\ecommerce\\Ecommerce\\Services\\Basket\\Basket.Core\\Basket.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\ecommerce\\Ecommerce\\Services\\Basket\\Basket.Abstraction\\Basket.Abstraction.csproj",
+        "projectName": "Basket.Abstraction",
+        "projectPath": "C:\\Users\\Dell\\source\\repos\\ecommerce\\Ecommerce\\Services\\Basket\\Basket.Abstraction\\Basket.Abstraction.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\source\\repos\\ecommerce\\Ecommerce\\Services\\Basket\\Basket.Core\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\source\\repos\\ecommerce\\Ecommerce\\Services\\Basket\\Basket.Abstraction\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,6 +43,104 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.14.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Dell\\source\\repos\\ecommerce\\Ecommerce\\Services\\Basket\\Basket.Core\\Basket.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\ecommerce\\Ecommerce\\Services\\Basket\\Basket.Core\\Basket.Core.csproj",
+        "projectName": "Basket.Core",
+        "projectPath": "C:\\Users\\Dell\\source\\repos\\ecommerce\\Ecommerce\\Services\\Basket\\Basket.Core\\Basket.Core.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dell\\source\\repos\\ecommerce\\Ecommerce\\Services\\Basket\\Basket.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Dell\\source\\repos\\ecommerce\\Ecommerce\\Services\\Basket\\Basket.Abstraction\\Basket.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\Dell\\source\\repos\\ecommerce\\Ecommerce\\Services\\Basket\\Basket.Abstraction\\Basket.Abstraction.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.14.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

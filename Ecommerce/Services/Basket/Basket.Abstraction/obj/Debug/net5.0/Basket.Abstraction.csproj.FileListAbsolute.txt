@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Basket\Basket.Abstraction\bin\Debug\net5.0\Basket.Abstraction.deps.json
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Basket\Basket.Abstraction\bin\Debug\net5.0\Basket.Abstraction.dll
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Basket\Basket.Abstraction\bin\Debug\net5.0\ref\Basket.Abstraction.dll
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Basket\Basket.Abstraction\bin\Debug\net5.0\Basket.Abstraction.pdb
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Basket\Basket.Abstraction\obj\Debug\net5.0\Basket.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Basket\Basket.Abstraction\obj\Debug\net5.0\Basket.Abstraction.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Basket\Basket.Abstraction\obj\Debug\net5.0\Basket.Abstraction.AssemblyInfo.cs
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Basket\Basket.Abstraction\obj\Debug\net5.0\Basket.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Basket\Basket.Abstraction\obj\Debug\net5.0\Basket.Abstraction.dll
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Basket\Basket.Abstraction\obj\Debug\net5.0\ref\Basket.Abstraction.dll
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Basket\Basket.Abstraction\obj\Debug\net5.0\Basket.Abstraction.pdb

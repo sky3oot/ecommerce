@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Basket\Basket.Infrastructure\bin\Debug\net5.0\Basket.Infrastructure.deps.json
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Basket\Basket.Infrastructure\bin\Debug\net5.0\Basket.Infrastructure.dll
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Basket\Basket.Infrastructure\bin\Debug\net5.0\ref\Basket.Infrastructure.dll
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Basket\Basket.Infrastructure\bin\Debug\net5.0\Basket.Infrastructure.pdb
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Basket\Basket.Infrastructure\bin\Debug\net5.0\Basket.Abstraction.dll
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Basket\Basket.Infrastructure\bin\Debug\net5.0\Basket.Abstraction.pdb
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Basket\Basket.Infrastructure\obj\Debug\net5.0\Basket.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Basket\Basket.Infrastructure\obj\Debug\net5.0\Basket.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Basket\Basket.Infrastructure\obj\Debug\net5.0\Basket.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Basket\Basket.Infrastructure\obj\Debug\net5.0\Basket.Infrastructure.AssemblyInfo.cs
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Basket\Basket.Infrastructure\obj\Debug\net5.0\Basket.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Basket\Basket.Infrastructure\obj\Debug\net5.0\Basket.Infrastructure.csproj.CopyComplete
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Basket\Basket.Infrastructure\obj\Debug\net5.0\Basket.Infrastructure.dll
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Basket\Basket.Infrastructure\obj\Debug\net5.0\ref\Basket.Infrastructure.dll
+C:\Users\Dell\source\repos\ecommerce\Ecommerce\Services\Basket\Basket.Infrastructure\obj\Debug\net5.0\Basket.Infrastructure.pdb
